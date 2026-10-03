@@ -1,0 +1,27 @@
+name: Update RSS feed
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # 每 30 分鐘（GitHub 排程可能延遲幾分鐘）
+  workflow_dispatch:          # 可在 Actions 頁手動執行
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4 lxml
+      - run: python generate_feed.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # 只有項目變動才 commit（忽略 lastBuildDate）
+          if git diff --quiet -I'lastBuildDate' -- feed.xml 2>/dev/null && git ls-files --error-unmatch feed.xml >/dev/null 2>&1; then
+            echo "No changes"; git checkout -- feed.xml
+          else
+            git add feed.xml && git commit -m "Update feed" && git push
+          fi
