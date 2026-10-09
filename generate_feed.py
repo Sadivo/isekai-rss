@@ -1,5 +1,7 @@
 """將 ヰ世界情緒 1209Carat. 各分類列表頁轉成 RSS feed。"""
 import datetime as dt
+import json
+import os
 import sys
 from email.utils import format_datetime
 from xml.sax.saxutils import escape
@@ -16,6 +18,7 @@ SECTIONS = {  # 路徑: 分類名稱
     "/contents/schedule": "Schedule",
 }
 JST = dt.timezone(dt.timedelta(hours=9))
+STATE_FILE = "seen.json"
 UA = "Mozilla/5.0 (personal RSS feed; checks every 30 min)"
 
 
@@ -62,6 +65,8 @@ def build_rss(items):
            f"<lastBuildDate>{now}</lastBuildDate>"]
     for it in items:
         desc = "、".join([it["category"]] + it["tags"])
+        if it["date"]:
+            desc += f"（頁面日期 {it['date']:%Y-%m-%d}）"
         if it["image"]:
             desc += f'<br/><img src="{escape(it["image"])}"/>'
         out.append("<item>")
@@ -69,8 +74,7 @@ def build_rss(items):
         out.append(f"<link>{escape(it['link'])}</link>")
         out.append(f'<guid isPermaLink="true">{escape(it["link"])}</guid>')
         out.append(f"<category>{escape(it['category'])}</category>")
-        if it["date"]:
-            out.append(f"<pubDate>{format_datetime(it['date'])}</pubDate>")
+        out.append(f"<pubDate>{format_datetime(it['seen'])}</pubDate>")
         if it["image"]:
             out.append(f'<enclosure url="{escape(it["image"])}" type="image/jpeg" length="0"/>')
         out.append(f"<description>{escape(desc)}</description>")
@@ -91,12 +95,28 @@ def main():
             print(f"{label}: ERROR {e}", file=sys.stderr)
     if not items:
         sys.exit("沒有抓到任何項目，保留舊的 feed.xml")
-    seen, uniq = set(), []
+    # pubDate 用「首次偵測到的時間」，避免 Schedule 的未來活動日期讓 RSS 機器人誤判
+    state = {}
+    if os.path.exists(STATE_FILE):
+        with open(STATE_FILE, encoding="utf-8") as f:
+            state = json.load(f)
+    now = dt.datetime.now(dt.timezone.utc).replace(microsecond=0)
+    first_run = not state
+    uniq, links = [], set()
     for it in items:
-        if it["link"] not in seen:
-            seen.add(it["link"]); uniq.append(it)
-    epoch = dt.datetime(1970, 1, 1, tzinfo=JST)
-    uniq.sort(key=lambda x: x["date"] or epoch, reverse=True)
+        if it["link"] in links:
+            continue
+        links.add(it["link"])
+        if it["link"] not in state:
+            first = now
+            if first_run and it["date"]:  # 首次執行：沿用頁面日期（不超過現在）
+                first = min(it["date"], now)
+            state[it["link"]] = first.isoformat()
+        it["seen"] = dt.datetime.fromisoformat(state[it["link"]])
+        uniq.append(it)
+    uniq.sort(key=lambda x: x["seen"], reverse=True)
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
+        json.dump(state, f, ensure_ascii=False, indent=1, sort_keys=True)
     with open("feed.xml", "w", encoding="utf-8") as f:
         f.write(build_rss(uniq))
 
