@@ -1,16 +1,19 @@
 name: Update RSS feed
 on:
   schedule:
-    - cron: "*/30 * * * *"   # 每 30 分鐘（GitHub 排程可能延遲幾分鐘）
-  workflow_dispatch:          # 可在 Actions 頁手動執行
+    - cron: "0 * * * *"      # 備援；主要由 cron-job.org 每 15 分鐘觸發
+  workflow_dispatch:          # cron-job.org / 手動執行都走這裡
 permissions:
   contents: write
+concurrency:                  # 避免兩次執行同時 push 互相衝突
+  group: feed
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - run: pip install requests beautifulsoup4 lxml
