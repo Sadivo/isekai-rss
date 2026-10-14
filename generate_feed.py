@@ -55,29 +55,41 @@ def scrape(path, label, html=None):
     return items
 
 
+FEED_URL = "https://sadivo.github.io/isekai-rss/feed.xml"
+
+
 def build_rss(items):
+    # 結構比照 FetchRSS（MEE6 已確認可正常讀取的格式）
     now = format_datetime(dt.datetime.now(dt.timezone.utc))
+    newest = format_datetime(items[0]["seen"]) if items else now
     out = ['<?xml version="1.0" encoding="UTF-8"?>',
-           '<rss version="2.0"><channel>',
+           '<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" '
+           'xmlns:atom="http://www.w3.org/2005/Atom" '
+           'xmlns:dc="http://purl.org/dc/elements/1.1/">',
+           "<channel>",
            "<title>ヰ世界情緒 1209Carat. 更新</title>",
-           f"<link>{BASE}/</link>",
            "<description>非官方：由列表頁自動產生的更新通知</description>",
-           f"<lastBuildDate>{now}</lastBuildDate>"]
+           f"<pubDate>{newest}</pubDate>",
+           f"<lastBuildDate>{now}</lastBuildDate>",
+           f"<link>{BASE}/</link>",
+           f'<atom:link href="{FEED_URL}" rel="self" type="application/rss+xml" />',
+           "<generator>isekai-rss (GitHub Actions)</generator>"]
     for it in items:
         desc = "、".join([it["category"]] + it["tags"])
         if it["date"]:
             desc += f"（頁面日期 {it['date']:%Y-%m-%d}）"
         if it["image"]:
-            desc += f'<br/><img src="{escape(it["image"])}"/>'
+            desc += f'<br><img src="{escape(it["image"])}" />'
         out.append("<item>")
+        out.append(f"<guid isPermaLink=\"false\">{escape(it['link'])}</guid>")
         out.append(f"<title>{escape(it['title'])}</title>")
         out.append(f"<link>{escape(it['link'])}</link>")
-        out.append(f'<guid isPermaLink="true">{escape(it["link"])}</guid>')
+        out.append(f"<description><![CDATA[{desc}]]></description>")
+        out.append(f"<dc:creator>ヰ世界情緒</dc:creator>")
         out.append(f"<category>{escape(it['category'])}</category>")
         out.append(f"<pubDate>{format_datetime(it['seen'])}</pubDate>")
         if it["image"]:
-            out.append(f'<enclosure url="{escape(it["image"])}" type="image/jpeg" length="0"/>')
-        out.append(f"<description>{escape(desc)}</description>")
+            out.append(f'<media:content url="{escape(it["image"])}" medium="image" />')
         out.append("</item>")
     out.append("</channel></rss>")
     return "\n".join(out)
