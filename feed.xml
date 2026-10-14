@@ -1,205 +1,232 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
 <title>ヰ世界情緒 1209Carat. 更新</title>
-<link>https://isekaijoucho.kamitsubaki.jp/</link>
 <description>非官方：由列表頁自動產生的更新通知</description>
-<lastBuildDate>Wed, 14 Oct 2026 14:02:31 +0000</lastBuildDate>
+<pubDate>Wed, 14 Oct 2026 14:02:31 +0000</pubDate>
+<lastBuildDate>Wed, 14 Oct 2026 14:45:31 +0000</lastBuildDate>
+<link>https://isekaijoucho.kamitsubaki.jp/</link>
+<atom:link href="https://sadivo.github.io/isekai-rss/feed.xml" rel="self" type="application/rss+xml" />
+<generator>isekai-rss (GitHub Actions)</generator>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/group/41863</guid>
 <title>[Gallery] - Photo Gallery No.03 -</title>
 <link>https://isekaijoucho.kamitsubaki.jp/group/41863</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/group/41863</guid>
+<description><![CDATA[Gallery（頁面日期 2026-10-14）<br><img src="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/634514/small_photo_1328_1038c8d690d4681a.png" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Gallery</category>
 <pubDate>Wed, 14 Oct 2026 14:02:31 +0000</pubDate>
-<enclosure url="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/634514/small_photo_1328_1038c8d690d4681a.png" type="image/jpeg" length="0"/>
-<description>Gallery（頁面日期 2026-10-14）&lt;br/&gt;&lt;img src="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/634514/small_photo_1328_1038c8d690d4681a.png"/&gt;</description>
+<media:content url="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/634514/small_photo_1328_1038c8d690d4681a.png" medium="image" />
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1118087</guid>
 <title>[News] 『鳴潮』二次創作特別番組「ソラリス・スターリーステージ Season 2」MIMI「風の名前」歌唱参加</title>
 <link>https://isekaijoucho.kamitsubaki.jp/contents/1118087</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/contents/1118087</guid>
+<description><![CDATA[News、MEDIA（頁面日期 2026-10-11）]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>News</category>
 <pubDate>Sun, 11 Oct 2026 13:40:07 +0000</pubDate>
-<description>News、MEDIA（頁面日期 2026-10-11）</description>
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1116349</guid>
 <title>[News] ヰ世界情緒 4th ONE-MAN LIVE 「Anima Ⅳ」開催決定！　「1209Carat.」会員抽選先行開始</title>
 <link>https://isekaijoucho.kamitsubaki.jp/contents/1116349</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/contents/1116349</guid>
+<description><![CDATA[News、LIVE（頁面日期 2026-10-09）]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>News</category>
 <pubDate>Fri, 09 Oct 2026 17:15:28 +0000</pubDate>
-<description>News、LIVE（頁面日期 2026-10-09）</description>
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/133368</guid>
 <title>[Movie] 【「1209Carat.」会員の皆様へ】ヰ世界情緒 4th ONE-MAN LIVE 「Anima Ⅳ」開催決定</title>
 <link>https://isekaijoucho.kamitsubaki.jp/movies/133368</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/movies/133368</guid>
+<description><![CDATA[Movie（頁面日期 2026-10-09）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/1b402d7c-dd2a-4cb3-8b1a-2c5b7d487bdb-1791542008154.png" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Movie</category>
 <pubDate>Fri, 09 Oct 2026 17:15:28 +0000</pubDate>
-<enclosure url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/1b402d7c-dd2a-4cb3-8b1a-2c5b7d487bdb-1791542008154.png" type="image/jpeg" length="0"/>
-<description>Movie（頁面日期 2026-10-09）&lt;br/&gt;&lt;img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/1b402d7c-dd2a-4cb3-8b1a-2c5b7d487bdb-1791542008154.png"/&gt;</description>
+<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/1b402d7c-dd2a-4cb3-8b1a-2c5b7d487bdb-1791542008154.png" medium="image" />
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1116740</guid>
 <title>[Schedule] ヰ世界情緒 4th ONE-MAN LIVE 「Anima Ⅳ」</title>
 <link>https://isekaijoucho.kamitsubaki.jp/contents/1116740</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/contents/1116740</guid>
+<description><![CDATA[Schedule、LIVE（頁面日期 2027-03-24）]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Schedule</category>
 <pubDate>Fri, 09 Oct 2026 17:15:28 +0000</pubDate>
-<description>Schedule、LIVE（頁面日期 2027-03-24）</description>
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1112545</guid>
 <title>[Schedule] Anime Festival Asia Singapore 2026</title>
 <link>https://isekaijoucho.kamitsubaki.jp/contents/1112545</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/contents/1112545</guid>
+<description><![CDATA[Schedule、LIVE（頁面日期 2026-11-28）]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Schedule</category>
 <pubDate>Fri, 09 Oct 2026 11:38:08 +0000</pubDate>
-<description>Schedule、LIVE（頁面日期 2026-11-28）</description>
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/133112</guid>
 <title>[Movie] ヰ世界ジェスチャークイズ①</title>
 <link>https://isekaijoucho.kamitsubaki.jp/movies/133112</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/movies/133112</guid>
+<description><![CDATA[Movie（頁面日期 2026-10-08）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/e7deb77e-514b-499a-b059-21f47d58060f-1790918201934.png" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Movie</category>
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
-<enclosure url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/e7deb77e-514b-499a-b059-21f47d58060f-1790918201934.png" type="image/jpeg" length="0"/>
-<description>Movie（頁面日期 2026-10-08）&lt;br/&gt;&lt;img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/e7deb77e-514b-499a-b059-21f47d58060f-1790918201934.png"/&gt;</description>
+<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/e7deb77e-514b-499a-b059-21f47d58060f-1790918201934.png" medium="image" />
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/132254</guid>
 <title>[Movie] ヰ世界かくれんぼ</title>
 <link>https://isekaijoucho.kamitsubaki.jp/movies/132254</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/movies/132254</guid>
+<description><![CDATA[Movie（頁面日期 2026-10-02）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/a55c8d73-431a-4ec6-b64b-7e656560a596-1789017726092.png" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Movie</category>
 <pubDate>Fri, 02 Oct 2026 00:00:00 +0900</pubDate>
-<enclosure url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/a55c8d73-431a-4ec6-b64b-7e656560a596-1789017726092.png" type="image/jpeg" length="0"/>
-<description>Movie（頁面日期 2026-10-02）&lt;br/&gt;&lt;img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/a55c8d73-431a-4ec6-b64b-7e656560a596-1789017726092.png"/&gt;</description>
+<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/a55c8d73-431a-4ec6-b64b-7e656560a596-1789017726092.png" medium="image" />
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/group/41712</guid>
 <title>[Wallpaper] 26年10月 ＜WALLPAPER＞</title>
 <link>https://isekaijoucho.kamitsubaki.jp/group/41712</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/group/41712</guid>
+<description><![CDATA[Wallpaper（頁面日期 2026-10-01）<br><img src="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/632166/small_photo_1328_2d34b0153fc3cb53.jpg" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Wallpaper</category>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0900</pubDate>
-<enclosure url="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/632166/small_photo_1328_2d34b0153fc3cb53.jpg" type="image/jpeg" length="0"/>
-<description>Wallpaper（頁面日期 2026-10-01）&lt;br/&gt;&lt;img src="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/632166/small_photo_1328_2d34b0153fc3cb53.jpg"/&gt;</description>
+<media:content url="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/632166/small_photo_1328_2d34b0153fc3cb53.jpg" medium="image" />
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/group/41512</guid>
 <title>[Gallery] - Photo Gallery No.02 -</title>
 <link>https://isekaijoucho.kamitsubaki.jp/group/41512</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/group/41512</guid>
+<description><![CDATA[Gallery（頁面日期 2026-09-29）<br><img src="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/630671/small_photo_1328_c4ccfe4a19872234.png" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Gallery</category>
 <pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
-<enclosure url="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/630671/small_photo_1328_c4ccfe4a19872234.png" type="image/jpeg" length="0"/>
-<description>Gallery（頁面日期 2026-09-29）&lt;br/&gt;&lt;img src="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/630671/small_photo_1328_c4ccfe4a19872234.png"/&gt;</description>
+<media:content url="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/630671/small_photo_1328_c4ccfe4a19872234.png" medium="image" />
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/132657</guid>
 <title>[Movie] 【ISEKAI VLOG】新江ノ島水族館編！</title>
 <link>https://isekaijoucho.kamitsubaki.jp/movies/132657</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/movies/132657</guid>
+<description><![CDATA[Movie（頁面日期 2026-09-27）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/6a8706c5-b5fb-4a48-b876-6b86dccfd76b-1790144252478.png" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Movie</category>
 <pubDate>Sun, 27 Sep 2026 00:00:00 +0900</pubDate>
-<enclosure url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/6a8706c5-b5fb-4a48-b876-6b86dccfd76b-1790144252478.png" type="image/jpeg" length="0"/>
-<description>Movie（頁面日期 2026-09-27）&lt;br/&gt;&lt;img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/6a8706c5-b5fb-4a48-b876-6b86dccfd76b-1790144252478.png"/&gt;</description>
+<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/6a8706c5-b5fb-4a48-b876-6b86dccfd76b-1790144252478.png" medium="image" />
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/132253</guid>
 <title>[Movie] ヰ世界じゃんけん④</title>
 <link>https://isekaijoucho.kamitsubaki.jp/movies/132253</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/movies/132253</guid>
+<description><![CDATA[Movie（頁面日期 2026-09-25）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/03883e59-93db-4691-8c3a-74ccc622067d-1789015390078.png" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Movie</category>
 <pubDate>Fri, 25 Sep 2026 00:00:00 +0900</pubDate>
-<enclosure url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/03883e59-93db-4691-8c3a-74ccc622067d-1789015390078.png" type="image/jpeg" length="0"/>
-<description>Movie（頁面日期 2026-09-25）&lt;br/&gt;&lt;img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/03883e59-93db-4691-8c3a-74ccc622067d-1789015390078.png"/&gt;</description>
+<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/03883e59-93db-4691-8c3a-74ccc622067d-1789015390078.png" medium="image" />
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1112550</guid>
 <title>[News] 「Anime Festival Asia Singapore 2026」出演決定</title>
 <link>https://isekaijoucho.kamitsubaki.jp/contents/1112550</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/contents/1112550</guid>
+<description><![CDATA[News、LIVE（頁面日期 2026-09-23）]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>News</category>
 <pubDate>Wed, 23 Sep 2026 00:00:00 +0900</pubDate>
-<description>News、LIVE（頁面日期 2026-09-23）</description>
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/group/41499</guid>
 <title>[Wallpaper] 26年9月 ＜WALLPAPER＞</title>
 <link>https://isekaijoucho.kamitsubaki.jp/group/41499</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/group/41499</guid>
+<description><![CDATA[Wallpaper（頁面日期 2026-09-21）<br><img src="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/display_item_group/image/41499/default_2609_yoko.jpg" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Wallpaper</category>
 <pubDate>Mon, 21 Sep 2026 00:00:00 +0900</pubDate>
-<enclosure url="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/display_item_group/image/41499/default_2609_yoko.jpg" type="image/jpeg" length="0"/>
-<description>Wallpaper（頁面日期 2026-09-21）&lt;br/&gt;&lt;img src="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/display_item_group/image/41499/default_2609_yoko.jpg"/&gt;</description>
+<media:content url="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/display_item_group/image/41499/default_2609_yoko.jpg" medium="image" />
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1113598</guid>
 <title>[News] ADV『偽りのアリス -Retold Tale-』オープニング主題歌「Alias」歌唱参加決定</title>
 <link>https://isekaijoucho.kamitsubaki.jp/contents/1113598</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/contents/1113598</guid>
+<description><![CDATA[News、MEDIA（頁面日期 2026-09-18）]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>News</category>
 <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
-<description>News、MEDIA（頁面日期 2026-09-18）</description>
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/132252</guid>
 <title>[Movie] ヰ世界じゃんけん③</title>
 <link>https://isekaijoucho.kamitsubaki.jp/movies/132252</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/movies/132252</guid>
+<description><![CDATA[Movie（頁面日期 2026-09-18）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/6c747f4f-342b-42cb-b2da-8fea9a6f09a1-1789015373239.png" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Movie</category>
 <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
-<enclosure url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/6c747f4f-342b-42cb-b2da-8fea9a6f09a1-1789015373239.png" type="image/jpeg" length="0"/>
-<description>Movie（頁面日期 2026-09-18）&lt;br/&gt;&lt;img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/6c747f4f-342b-42cb-b2da-8fea9a6f09a1-1789015373239.png"/&gt;</description>
+<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/6c747f4f-342b-42cb-b2da-8fea9a6f09a1-1789015373239.png" medium="image" />
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/group/41511</guid>
 <title>[Gallery] - Photo Gallery No.01 -</title>
 <link>https://isekaijoucho.kamitsubaki.jp/group/41511</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/group/41511</guid>
+<description><![CDATA[Gallery（頁面日期 2026-09-13）<br><img src="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/630670/small_photo_1328_fcd9c333a448e6ed.png" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Gallery</category>
 <pubDate>Sun, 13 Sep 2026 00:00:00 +0900</pubDate>
-<enclosure url="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/630670/small_photo_1328_fcd9c333a448e6ed.png" type="image/jpeg" length="0"/>
-<description>Gallery（頁面日期 2026-09-13）&lt;br/&gt;&lt;img src="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/630670/small_photo_1328_fcd9c333a448e6ed.png"/&gt;</description>
+<media:content url="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/630670/small_photo_1328_fcd9c333a448e6ed.png" medium="image" />
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1109754</guid>
 <title>[Schedule] ZEN Study「風李たゆ先生によるイラスト授業」</title>
 <link>https://isekaijoucho.kamitsubaki.jp/contents/1109754</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/contents/1109754</guid>
+<description><![CDATA[Schedule、STREAMING（頁面日期 2026-09-12）]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Schedule</category>
 <pubDate>Sat, 12 Sep 2026 00:00:00 +0900</pubDate>
-<description>Schedule、STREAMING（頁面日期 2026-09-12）</description>
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/132251</guid>
 <title>[Movie] ヰ世界じゃんけん②</title>
 <link>https://isekaijoucho.kamitsubaki.jp/movies/132251</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/movies/132251</guid>
+<description><![CDATA[Movie（頁面日期 2026-09-11）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/5749055631587/20260910132429_f3534ed29e36163c7e68414ca93242296dab83139766bcd58277e9bae120f365_4.jpg" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Movie</category>
 <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
-<enclosure url="https://dj8b9lmjd3uu7.cloudfront.net/5749055631587/20260910132429_f3534ed29e36163c7e68414ca93242296dab83139766bcd58277e9bae120f365_4.jpg" type="image/jpeg" length="0"/>
-<description>Movie（頁面日期 2026-09-11）&lt;br/&gt;&lt;img src="https://dj8b9lmjd3uu7.cloudfront.net/5749055631587/20260910132429_f3534ed29e36163c7e68414ca93242296dab83139766bcd58277e9bae120f365_4.jpg"/&gt;</description>
+<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/5749055631587/20260910132429_f3534ed29e36163c7e68414ca93242296dab83139766bcd58277e9bae120f365_4.jpg" medium="image" />
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/132109</guid>
 <title>[Movie] ヰ世界じゃんけん①</title>
 <link>https://isekaijoucho.kamitsubaki.jp/movies/132109</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/movies/132109</guid>
+<description><![CDATA[Movie（頁面日期 2026-09-06）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/ab344ba6-f3c7-4b85-a61f-96cec90cba13-1788627787217.png" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Movie</category>
 <pubDate>Sun, 06 Sep 2026 00:00:00 +0900</pubDate>
-<enclosure url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/ab344ba6-f3c7-4b85-a61f-96cec90cba13-1788627787217.png" type="image/jpeg" length="0"/>
-<description>Movie（頁面日期 2026-09-06）&lt;br/&gt;&lt;img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/ab344ba6-f3c7-4b85-a61f-96cec90cba13-1788627787217.png"/&gt;</description>
+<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/ab344ba6-f3c7-4b85-a61f-96cec90cba13-1788627787217.png" medium="image" />
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1107307</guid>
 <title>[News] ヰ世界情緒 オフィシャルサイト＆ファンクラブ「1209Carat.」オープンのお知らせ</title>
 <link>https://isekaijoucho.kamitsubaki.jp/contents/1107307</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/contents/1107307</guid>
+<description><![CDATA[News（頁面日期 2026-09-05）]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>News</category>
 <pubDate>Sat, 05 Sep 2026 00:00:00 +0900</pubDate>
-<description>News（頁面日期 2026-09-05）</description>
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/132048</guid>
 <title>[Movie] 1209Carat.へようこそ</title>
 <link>https://isekaijoucho.kamitsubaki.jp/movies/132048</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/movies/132048</guid>
+<description><![CDATA[Movie（頁面日期 2026-09-05）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/dd6b815e-a18f-4727-bcfa-691adcbfc83a-1788510108409.jpg" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Movie</category>
 <pubDate>Sat, 05 Sep 2026 00:00:00 +0900</pubDate>
-<enclosure url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/dd6b815e-a18f-4727-bcfa-691adcbfc83a-1788510108409.jpg" type="image/jpeg" length="0"/>
-<description>Movie（頁面日期 2026-09-05）&lt;br/&gt;&lt;img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/dd6b815e-a18f-4727-bcfa-691adcbfc83a-1788510108409.jpg"/&gt;</description>
+<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/dd6b815e-a18f-4727-bcfa-691adcbfc83a-1788510108409.jpg" medium="image" />
 </item>
 <item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1107656</guid>
 <title>[Schedule] KAMITSUBAKI FES ’26 FIELD OF RESONANCE</title>
 <link>https://isekaijoucho.kamitsubaki.jp/contents/1107656</link>
-<guid isPermaLink="true">https://isekaijoucho.kamitsubaki.jp/contents/1107656</guid>
+<description><![CDATA[Schedule、LIVE（頁面日期 2026-09-05）]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
 <category>Schedule</category>
 <pubDate>Sat, 05 Sep 2026 00:00:00 +0900</pubDate>
-<description>Schedule、LIVE（頁面日期 2026-09-05）</description>
 </item>
 </channel></rss>
