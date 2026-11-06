@@ -3,11 +3,21 @@
 <channel>
 <title>ヰ世界情緒 1209Carat. 更新</title>
 <description>非官方：由列表頁自動產生的更新通知</description>
-<pubDate>Thu, 05 Nov 2026 09:00:50 +0000</pubDate>
-<lastBuildDate>Thu, 05 Nov 2026 09:00:50 +0000</lastBuildDate>
+<pubDate>Fri, 06 Nov 2026 10:00:51 +0000</pubDate>
+<lastBuildDate>Fri, 06 Nov 2026 10:00:51 +0000</lastBuildDate>
 <link>https://isekaijoucho.kamitsubaki.jp/</link>
 <atom:link href="https://sadivo.github.io/isekai-rss/feed.xml" rel="self" type="application/rss+xml" />
 <generator>isekai-rss (GitHub Actions)</generator>
+<item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/133163</guid>
+<title>[Movie] ヰ世界筋トレ①</title>
+<link>https://isekaijoucho.kamitsubaki.jp/movies/133163</link>
+<description><![CDATA[Movie（頁面日期 2026-11-06）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/c0348e3b-4073-4e44-935a-c3eee6017a22-1791038764832.png" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
+<category>Movie</category>
+<pubDate>Fri, 06 Nov 2026 10:00:51 +0000</pubDate>
+<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/c0348e3b-4073-4e44-935a-c3eee6017a22-1791038764832.png" medium="image" />
+</item>
 <item>
 <guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1125155</guid>
 <title>[News] ヰ世界情緒 4th ONE-MAN LIVE 「Anima Ⅳ」最新チケット情報</title>
@@ -295,16 +305,6 @@
 <category>Movie</category>
 <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
 <media:content url="https://dj8b9lmjd3uu7.cloudfront.net/5749055631587/20260910132429_f3534ed29e36163c7e68414ca93242296dab83139766bcd58277e9bae120f365_4.jpg" medium="image" />
-</item>
-<item>
-<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/132109</guid>
-<title>[Movie] ヰ世界じゃんけん①</title>
-<link>https://isekaijoucho.kamitsubaki.jp/movies/132109</link>
-<description><![CDATA[Movie（頁面日期 2026-09-06）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/ab344ba6-f3c7-4b85-a61f-96cec90cba13-1788627787217.png" />]]></description>
-<dc:creator>ヰ世界情緒</dc:creator>
-<category>Movie</category>
-<pubDate>Sun, 06 Sep 2026 00:00:00 +0900</pubDate>
-<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/ab344ba6-f3c7-4b85-a61f-96cec90cba13-1788627787217.png" medium="image" />
 </item>
 <item>
 <guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1107307</guid>
