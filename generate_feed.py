@@ -55,6 +55,7 @@ def scrape(path, label, html=None):
     return items
 
 
+OMIT_ITEM_PUBDATE = True  # 改回 False 即恢復每筆的發佈時間
 FEED_URL = "https://sadivo.github.io/isekai-rss/feed.xml"
 
 
@@ -87,7 +88,9 @@ def build_rss(items):
         out.append(f"<description><![CDATA[{desc}]]></description>")
         out.append(f"<dc:creator>ヰ世界情緒</dc:creator>")
         out.append(f"<category>{escape(it['category'])}</category>")
-        out.append(f"<pubDate>{format_datetime(it['seen'])}</pubDate>")
+        # 不輸出項目 pubDate：讓 FetchRSS 以它抓到的時間為準，避免 MEE6 因時間差略過
+        if not OMIT_ITEM_PUBDATE:
+            out.append(f"<pubDate>{format_datetime(it['seen'])}</pubDate>")
         if it["image"]:
             out.append(f'<media:content url="{escape(it["image"])}" medium="image" />')
         out.append("</item>")
