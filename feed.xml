@@ -3,11 +3,20 @@
 <channel>
 <title>ヰ世界情緒 1209Carat. 更新</title>
 <description>非官方：由列表頁自動產生的更新通知</description>
-<pubDate>Fri, 06 Nov 2026 10:00:51 +0000</pubDate>
-<lastBuildDate>Fri, 06 Nov 2026 13:15:33 +0000</lastBuildDate>
+<pubDate>Fri, 13 Nov 2026 10:00:51 +0000</pubDate>
+<lastBuildDate>Fri, 13 Nov 2026 10:00:51 +0000</lastBuildDate>
 <link>https://isekaijoucho.kamitsubaki.jp/</link>
 <atom:link href="https://sadivo.github.io/isekai-rss/feed.xml" rel="self" type="application/rss+xml" />
 <generator>isekai-rss (GitHub Actions)</generator>
+<item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/133164</guid>
+<title>[Movie] ヰ世界筋トレ②</title>
+<link>https://isekaijoucho.kamitsubaki.jp/movies/133164</link>
+<description><![CDATA[Movie（頁面日期 2026-11-13）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/fb3e9c51-dbc1-4740-a0cc-b2ad5852ef51-1791038788770.png" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
+<category>Movie</category>
+<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/fb3e9c51-dbc1-4740-a0cc-b2ad5852ef51-1791038788770.png" medium="image" />
+</item>
 <item>
 <guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/133163</guid>
 <title>[Movie] ヰ世界筋トレ①</title>
@@ -265,15 +274,6 @@
 <description><![CDATA[Schedule、STREAMING（頁面日期 2026-09-12）]]></description>
 <dc:creator>ヰ世界情緒</dc:creator>
 <category>Schedule</category>
-</item>
-<item>
-<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/132251</guid>
-<title>[Movie] ヰ世界じゃんけん②</title>
-<link>https://isekaijoucho.kamitsubaki.jp/movies/132251</link>
-<description><![CDATA[Movie（頁面日期 2026-09-11）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/5749055631587/20260910132429_f3534ed29e36163c7e68414ca93242296dab83139766bcd58277e9bae120f365_4.jpg" />]]></description>
-<dc:creator>ヰ世界情緒</dc:creator>
-<category>Movie</category>
-<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/5749055631587/20260910132429_f3534ed29e36163c7e68414ca93242296dab83139766bcd58277e9bae120f365_4.jpg" medium="image" />
 </item>
 <item>
 <guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1107307</guid>
