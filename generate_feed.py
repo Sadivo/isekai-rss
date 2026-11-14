@@ -55,7 +55,8 @@ def scrape(path, label, html=None):
     return items
 
 
-OMIT_ITEM_PUBDATE = True  # 改回 False 即恢復每筆的發佈時間
+OMIT_ITEM_PUBDATE = False  # MEE6 直接訂閱時需要每筆的發佈時間（測試 feed 已驗證）
+MAX_ITEMS = 15  # 只輸出最新 15 筆，與驗證可行的測試 feed 規模相近
 FEED_URL = "https://sadivo.github.io/isekai-rss/feed.xml"
 
 
@@ -133,7 +134,7 @@ def main():
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=1, sort_keys=True)
     with open("feed.xml", "w", encoding="utf-8") as f:
-        f.write(build_rss(uniq))
+        f.write(build_rss(uniq[:MAX_ITEMS]))
 
 
 if __name__ == "__main__":
