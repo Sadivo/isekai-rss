@@ -18,6 +18,7 @@ jobs:
           python-version: "3.12"
       - run: pip install requests beautifulsoup4 lxml
       - run: python generate_feed.py
+      - run: python test_feed.py
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
