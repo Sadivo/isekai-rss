@@ -4,9 +4,16 @@
 <title>MEE6 test feed A</title>
 <link>https://sadivo.github.io/isekai-rss/test.html</link>
 <description>Hourly test items (plain format)</description>
-<pubDate>Sat, 14 Nov 2026 11:00:51 +0000</pubDate>
-<lastBuildDate>Sat, 14 Nov 2026 11:00:51 +0000</lastBuildDate>
+<pubDate>Sat, 14 Nov 2026 12:00:49 +0000</pubDate>
+<lastBuildDate>Sat, 14 Nov 2026 12:00:49 +0000</lastBuildDate>
 <atom:link href="https://sadivo.github.io/isekai-rss/test-a.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Test A 2026111412</title>
+<link>https://sadivo.github.io/isekai-rss/test.html?t=2026111412</link>
+<guid isPermaLink="true">https://sadivo.github.io/isekai-rss/test.html?t=2026111412</guid>
+<pubDate>Sat, 14 Nov 2026 12:00:49 +0000</pubDate>
+<description>Test item created at Sat, 14 Nov 2026 12:00:49 +0000</description>
+</item>
 <item>
 <title>Test A 2026111411</title>
 <link>https://sadivo.github.io/isekai-rss/test.html?t=2026111411</link>
