@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>ヰ世界情緒 1209Carat. テスト B</title>
+<description>非官方：測試用（與正式 feed 相同格式）</description>
+<pubDate>Sat, 14 Nov 2026 10:00:48 +0000</pubDate>
+<lastBuildDate>Sat, 14 Nov 2026 10:00:48 +0000</lastBuildDate>
+<link>https://isekaijoucho.kamitsubaki.jp/</link>
+<atom:link href="https://sadivo.github.io/isekai-rss/test-b.xml" rel="self" type="application/rss+xml" />
+<item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/news?t=2026111410</guid>
+<title>[Movie] ヰ世界テスト 2026111410</title>
+<link>https://isekaijoucho.kamitsubaki.jp/contents/news?t=2026111410</link>
+<description><![CDATA[Movie（テスト 2026111410）<br><img src="https://isekaijoucho.kamitsubaki.jp/assets/isekaijoucho/app/ogp.jpg" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
+<category>Movie</category>
+<pubDate>Sat, 14 Nov 2026 10:00:48 +0000</pubDate>
+<media:content url="https://isekaijoucho.kamitsubaki.jp/assets/isekaijoucho/app/ogp.jpg" medium="image" />
+</item>
+</channel></rss>
