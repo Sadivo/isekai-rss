@@ -18,11 +18,13 @@ jobs:
           python-version: "3.12"
       - run: pip install requests beautifulsoup4 lxml
       - run: python generate_feed.py
+      - run: python test_feed.py   # MEE6 診斷用，測完後刪除這一行
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add feed.xml seen.json
+          git add test-a.xml test-b.xml test.html test_state.json 2>/dev/null || true
           # 只有項目變動才 commit（忽略 lastBuildDate）
           if git diff --cached --quiet -I'lastBuildDate'; then
             echo "No changes"
