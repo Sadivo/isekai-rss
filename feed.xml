@@ -3,11 +3,21 @@
 <channel>
 <title>ヰ世界情緒 1209Carat. 更新</title>
 <description>非官方：由列表頁自動產生的更新通知</description>
-<pubDate>Fri, 13 Nov 2026 10:00:51 +0000</pubDate>
-<lastBuildDate>Sat, 14 Nov 2026 14:33:04 +0000</lastBuildDate>
+<pubDate>Tue, 17 Nov 2026 09:00:52 +0000</pubDate>
+<lastBuildDate>Tue, 17 Nov 2026 09:00:52 +0000</lastBuildDate>
 <link>https://isekaijoucho.kamitsubaki.jp/</link>
 <atom:link href="https://sadivo.github.io/isekai-rss/feed.xml" rel="self" type="application/rss+xml" />
 <generator>isekai-rss (GitHub Actions)</generator>
+<item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/group/42329</guid>
+<title>[Gallery] - Photo Gallery No.05 -</title>
+<link>https://isekaijoucho.kamitsubaki.jp/group/42329</link>
+<description><![CDATA[Gallery（頁面日期 2026-11-17）<br><img src="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/639817/small_photo_1328_57ebedbb5eb8b6d3.png" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
+<category>Gallery</category>
+<pubDate>Tue, 17 Nov 2026 09:00:52 +0000</pubDate>
+<media:content url="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/639817/small_photo_1328_57ebedbb5eb8b6d3.png" medium="image" />
+</item>
 <item>
 <guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/133164</guid>
 <title>[Movie] ヰ世界筋トレ②</title>
@@ -142,14 +152,5 @@
 <category>Gallery</category>
 <pubDate>Wed, 14 Oct 2026 14:02:31 +0000</pubDate>
 <media:content url="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/634514/small_photo_1328_1038c8d690d4681a.png" medium="image" />
-</item>
-<item>
-<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1118087</guid>
-<title>[News] 『鳴潮』二次創作特別番組「ソラリス・スターリーステージ Season 2」MIMI「風の名前」歌唱参加</title>
-<link>https://isekaijoucho.kamitsubaki.jp/contents/1118087</link>
-<description><![CDATA[News、MEDIA（頁面日期 2026-10-11）]]></description>
-<dc:creator>ヰ世界情緒</dc:creator>
-<category>News</category>
-<pubDate>Sun, 11 Oct 2026 13:40:07 +0000</pubDate>
 </item>
 </channel></rss>
