@@ -3,11 +3,21 @@
 <channel>
 <title>ヰ世界情緒 1209Carat. 更新</title>
 <description>非官方：由列表頁自動產生的更新通知</description>
-<pubDate>Tue, 24 Nov 2026 12:30:46 +0000</pubDate>
-<lastBuildDate>Tue, 24 Nov 2026 12:30:46 +0000</lastBuildDate>
+<pubDate>Wed, 25 Nov 2026 09:30:52 +0000</pubDate>
+<lastBuildDate>Wed, 25 Nov 2026 09:30:52 +0000</lastBuildDate>
 <link>https://isekaijoucho.kamitsubaki.jp/</link>
 <atom:link href="https://sadivo.github.io/isekai-rss/feed.xml" rel="self" type="application/rss+xml" />
 <generator>isekai-rss (GitHub Actions)</generator>
+<item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/group/42424</guid>
+<title>[Gallery] - Photo Gallery No.06 -</title>
+<link>https://isekaijoucho.kamitsubaki.jp/group/42424</link>
+<description><![CDATA[Gallery（頁面日期 2026-11-25）<br><img src="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/640450/small_photo_1328_2ad38279cd07e046.jpg" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
+<category>Gallery</category>
+<pubDate>Wed, 25 Nov 2026 09:30:52 +0000</pubDate>
+<media:content url="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/640450/small_photo_1328_2ad38279cd07e046.jpg" medium="image" />
+</item>
 <item>
 <guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1131677</guid>
 <title>[News] 【お詫び】ログイン障害および「グラフィックKV Tシャツ / BLACK」注文期間延長のお知らせ</title>
@@ -141,15 +151,5 @@
 <dc:creator>ヰ世界情緒</dc:creator>
 <category>News</category>
 <pubDate>Mon, 19 Oct 2026 09:00:54 +0000</pubDate>
-</item>
-<item>
-<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/133451</guid>
-<title>[Movie] 【ISEKAI VLOG】KAMITSUBAKI FES '26編！</title>
-<link>https://isekaijoucho.kamitsubaki.jp/movies/133451</link>
-<description><![CDATA[Movie（頁面日期 2026-10-17）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/a7f9f51a-d768-4812-9d53-73924b117982-1791873097354.png" />]]></description>
-<dc:creator>ヰ世界情緒</dc:creator>
-<category>Movie</category>
-<pubDate>Sat, 17 Oct 2026 10:00:51 +0000</pubDate>
-<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/a7f9f51a-d768-4812-9d53-73924b117982-1791873097354.png" medium="image" />
 </item>
 </channel></rss>
