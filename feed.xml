@@ -3,11 +3,20 @@
 <channel>
 <title>ヰ世界情緒 1209Carat. 更新</title>
 <description>非官方：由列表頁自動產生的更新通知</description>
-<pubDate>Thu, 26 Nov 2026 06:00:51 +0000</pubDate>
-<lastBuildDate>Thu, 26 Nov 2026 06:00:51 +0000</lastBuildDate>
+<pubDate>Thu, 26 Nov 2026 09:00:52 +0000</pubDate>
+<lastBuildDate>Thu, 26 Nov 2026 09:00:52 +0000</lastBuildDate>
 <link>https://isekaijoucho.kamitsubaki.jp/</link>
 <atom:link href="https://sadivo.github.io/isekai-rss/feed.xml" rel="self" type="application/rss+xml" />
 <generator>isekai-rss (GitHub Actions)</generator>
+<item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1132052</guid>
+<title>[News] ヰ世界情緒 4th ONE-MAN LIVE 「Anima Ⅳ」最新チケット情報</title>
+<link>https://isekaijoucho.kamitsubaki.jp/contents/1132052</link>
+<description><![CDATA[News、LIVE（頁面日期 2026-11-26）]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
+<category>News</category>
+<pubDate>Thu, 26 Nov 2026 09:00:52 +0000</pubDate>
+</item>
 <item>
 <guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1131581</guid>
 <title>[News] [重要]システムメンテナンスのお知らせ</title>
@@ -141,15 +150,5 @@
 <dc:creator>ヰ世界情緒</dc:creator>
 <category>Schedule</category>
 <pubDate>Sat, 24 Oct 2026 05:30:44 +0000</pubDate>
-</item>
-<item>
-<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/133161</guid>
-<title>[Movie] ヰ世界ジェスチャークイズ③</title>
-<link>https://isekaijoucho.kamitsubaki.jp/movies/133161</link>
-<description><![CDATA[Movie（頁面日期 2026-10-23）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/f3102120-7fe8-40bf-83e7-36a9d418912d-1791038697310.png" />]]></description>
-<dc:creator>ヰ世界情緒</dc:creator>
-<category>Movie</category>
-<pubDate>Fri, 23 Oct 2026 10:00:54 +0000</pubDate>
-<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/f3102120-7fe8-40bf-83e7-36a9d418912d-1791038697310.png" medium="image" />
 </item>
 </channel></rss>
