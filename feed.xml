@@ -3,11 +3,20 @@
 <channel>
 <title>ヰ世界情緒 1209Carat. 更新</title>
 <description>非官方：由列表頁自動產生的更新通知</description>
-<pubDate>Wed, 25 Nov 2026 09:30:52 +0000</pubDate>
-<lastBuildDate>Wed, 25 Nov 2026 09:30:52 +0000</lastBuildDate>
+<pubDate>Thu, 26 Nov 2026 06:00:51 +0000</pubDate>
+<lastBuildDate>Thu, 26 Nov 2026 06:00:51 +0000</lastBuildDate>
 <link>https://isekaijoucho.kamitsubaki.jp/</link>
 <atom:link href="https://sadivo.github.io/isekai-rss/feed.xml" rel="self" type="application/rss+xml" />
 <generator>isekai-rss (GitHub Actions)</generator>
+<item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1131581</guid>
+<title>[News] [重要]システムメンテナンスのお知らせ</title>
+<link>https://isekaijoucho.kamitsubaki.jp/contents/1131581</link>
+<description><![CDATA[News（頁面日期 2026-11-26）]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
+<category>News</category>
+<pubDate>Thu, 26 Nov 2026 06:00:51 +0000</pubDate>
+</item>
 <item>
 <guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/group/42424</guid>
 <title>[Gallery] - Photo Gallery No.06 -</title>
@@ -142,14 +151,5 @@
 <category>Movie</category>
 <pubDate>Fri, 23 Oct 2026 10:00:54 +0000</pubDate>
 <media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/f3102120-7fe8-40bf-83e7-36a9d418912d-1791038697310.png" medium="image" />
-</item>
-<item>
-<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1120313</guid>
-<title>[News] 【重要】「Anima Ⅳ」会員抽選先行をお申込みの皆様へ（当落発表日の変更・ご同行者様の会員資格確認について）</title>
-<link>https://isekaijoucho.kamitsubaki.jp/contents/1120313</link>
-<description><![CDATA[News、LIVE（頁面日期 2026-10-19）]]></description>
-<dc:creator>ヰ世界情緒</dc:creator>
-<category>News</category>
-<pubDate>Mon, 19 Oct 2026 09:00:54 +0000</pubDate>
 </item>
 </channel></rss>
