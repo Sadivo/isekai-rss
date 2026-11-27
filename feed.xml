@@ -3,11 +3,21 @@
 <channel>
 <title>ヰ世界情緒 1209Carat. 更新</title>
 <description>非官方：由列表頁自動產生的更新通知</description>
-<pubDate>Thu, 26 Nov 2026 10:15:34 +0000</pubDate>
-<lastBuildDate>Thu, 26 Nov 2026 11:00:55 +0000</lastBuildDate>
+<pubDate>Fri, 27 Nov 2026 10:00:50 +0000</pubDate>
+<lastBuildDate>Fri, 27 Nov 2026 10:00:50 +0000</lastBuildDate>
 <link>https://isekaijoucho.kamitsubaki.jp/</link>
 <atom:link href="https://sadivo.github.io/isekai-rss/feed.xml" rel="self" type="application/rss+xml" />
 <generator>isekai-rss (GitHub Actions)</generator>
+<item>
+<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/movies/133166</guid>
+<title>[Movie] ヰ世界ナイト</title>
+<link>https://isekaijoucho.kamitsubaki.jp/movies/133166</link>
+<description><![CDATA[Movie（頁面日期 2026-11-27）<br><img src="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/a5a70061-ad3f-46e4-8f76-3dbdbdf6a821-1791038827126.png" />]]></description>
+<dc:creator>ヰ世界情緒</dc:creator>
+<category>Movie</category>
+<pubDate>Fri, 27 Nov 2026 10:00:50 +0000</pubDate>
+<media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/a5a70061-ad3f-46e4-8f76-3dbdbdf6a821-1791038827126.png" medium="image" />
+</item>
 <item>
 <guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/contents/1132055</guid>
 <title>[News] 「アークナイツ：エンドフィールド」 1st Anniversary Festival 出演決定！</title>
@@ -140,15 +150,5 @@
 <category>Movie</category>
 <pubDate>Fri, 30 Oct 2026 10:00:52 +0000</pubDate>
 <media:content url="https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5749055631587/eb5f633d-bc51-49ef-85f7-d87f93f26bdf-1791038740526.png" medium="image" />
-</item>
-<item>
-<guid isPermaLink="false">https://isekaijoucho.kamitsubaki.jp/group/41892</guid>
-<title>[Gallery] - Photo Gallery No.04 -</title>
-<link>https://isekaijoucho.kamitsubaki.jp/group/41892</link>
-<description><![CDATA[Gallery（頁面日期 2026-10-27）<br><img src="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/634515/small_photo_1328_a19287d8705c7ab6.png" />]]></description>
-<dc:creator>ヰ世界情緒</dc:creator>
-<category>Gallery</category>
-<pubDate>Tue, 27 Oct 2026 10:00:55 +0000</pubDate>
-<media:content url="https://isekaijoucho.kamitsubaki.jp/s3/skiyaki/uploads/photo/image/634515/small_photo_1328_a19287d8705c7ab6.png" medium="image" />
 </item>
 </channel></rss>
